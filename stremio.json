@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "real-debrid.com"
+        "real-debrid.com",
+        "tb-cdn.io",
       ]
     }
   ]
