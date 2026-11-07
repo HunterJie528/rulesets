@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "package_name": [
+        
+      ],
+      "domain_suffix": [
+        "wise.com",
+
+        "barclays.co.uk",
+        
+        "lloydsbank.com",
+
+        "hsbc.co.uk",
+        "uk.hsbc.com",
+
+        "nationwide.co.uk",
+        
+        "monzo.com",
+        "monzo.statuspage.io",
+        "ws-eu.pusher.com",
+
+        "zopa.com",
+        
+        "starlingbank.com",
+
+        "ifastgb.com",
+        "ifastcorp.com"
+      ],
+      "domain_keyword": [
+        "transferwise",
+        "monzo"
+      ]
+    }
+  ]
+}
