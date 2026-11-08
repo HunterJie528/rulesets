@@ -1,13 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "package_name": [
-        
+        "com.grppl.android.shell.CMBlloydsTSB73",
+        "co.uk.getmondo",
+        "com.zopa.zeos",
+        "com.ifast.gb"
       ],
       "domain_suffix": [
-        "wise.com",
-
         "barclays.co.uk",
         
         "lloydsbank.com",
@@ -29,7 +30,6 @@
         "ifastcorp.com"
       ],
       "domain_keyword": [
-        "transferwise",
         "monzo"
       ]
     }
