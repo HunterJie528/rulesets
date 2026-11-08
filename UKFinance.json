@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
       "package_name": [
@@ -7,11 +7,14 @@
         "co.uk.getmondo",
         "com.zopa.zeos",
         "com.ifast.gb"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "barclays.co.uk",
         
         "lloydsbank.com",
+        "lloydsbank.co.uk",
 
         "hsbc.co.uk",
         "uk.hsbc.com",
@@ -30,7 +33,13 @@
         "ifastcorp.com"
       ],
       "domain_keyword": [
-        "monzo"
+        "barclays",
+        "lloydsbank",
+        "nationwide",
+        "monzo",
+        "zopa",
+        "starlingbank",
+        "ifast"
       ]
     }
   ]
