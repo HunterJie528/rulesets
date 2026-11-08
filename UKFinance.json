@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "rules": [
     {
       "package_name": [
@@ -31,15 +31,6 @@
 
         "ifastgb.com",
         "ifastcorp.com"
-      ],
-      "domain_keyword": [
-        "barclays",
-        "lloydsbank",
-        "nationwide",
-        "monzo",
-        "zopa",
-        "starlingbank",
-        "ifast"
       ]
     }
   ]
